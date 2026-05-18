@@ -13,13 +13,13 @@ I build data analysis projects that connect raw data to business decisions: prof
 
 | Project | Business question | Tools | Main output |
 |---|---|---|---|
-| [E-commerce Profit Leak Analysis](https://github.com/zakaria9622/ecommerce-profit-leak-analysis) | Where is profit being destroyed? | Python, SQL, pandas | Margin leak diagnosis and business recommendations |
-| [Customer Segmentation with RFM](https://github.com/zakaria9622/customer-segmentation-rfm) | Which customers should CRM prioritize? | Python, pandas | VIP, Loyal, At-risk and Lost customer segmentation |
-| [E-commerce Funnel Analysis](https://github.com/zakaria9622/funnel-analysis-project) | Where do users drop before purchase? | Python, SQL, pandas | View-to-cart bottleneck diagnosis |
+| [E-commerce Profit Leak Analysis](https://github.com/zakaria9622/ecommerce-profit-leak-analysis) | Where is margin being destroyed? | SQL / DuckDB, Tableau, Python, pandas | Profit leak dashboard, discount impact, weak category-region segments |
+| [E-commerce Funnel Analysis](https://github.com/zakaria9622/funnel-analysis-project) | Where do users drop before purchase? | SQL / DuckDB, Tableau, Python, pandas | Funnel dashboard, view-to-cart bottleneck diagnosis |
+| [Customer Segmentation with RFM](https://github.com/zakaria9622/customer-segmentation-rfm) | Which customers should CRM prioritize? | Python, pandas, RFM analysis | VIP, Loyal, At-risk and Lost customer segmentation |
 
 ## Technical stack
 
-Python · pandas · SQL · Excel · Tableau / BI · Data storytelling · Business analytics
+SQL · DuckDB · Tableau · Python · pandas · Excel · KPI dashboards · Funnel analysis · CRM analytics · Business storytelling
 
 ## What makes my portfolio different
 
