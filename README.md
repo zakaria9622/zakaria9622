@@ -1,4 +1,5 @@
-# Hi, I'm Zakaria Maachou — Data Analyst / BI Analyst focused on Business Performance
+# Hi, I’m Zakaria Maachou — Business Intelligence & Performance Analyst
+Turning data into business decisions with SQL, Tableau, Looker & Python.
 
 I build data analytics projects that connect raw data to business decisions: profitability, customer segmentation, conversion funnels, KPI monitoring and business reporting.
 
