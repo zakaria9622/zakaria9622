@@ -104,5 +104,4 @@ Lecture guidée et détail complet sur le [portfolio](https://www.zakariamaachou
 Français C1 · Anglais C1
 
 ---
-
-*Les quatre projets ci-dessus sont des projets personnels réalisés à des fins de démonstration analytique. Le périmètre et les limites de chaque jeu de données sont documentés dans le dépôt correspondant. Aucun résultat n'est présenté comme un impact business observé en entreprise.
+*Les quatre projets ci-dessus sont des projets personnels réalisés à des fins de démonstration analytique. Le périmètre et les limites de chaque jeu de données sont documentés dans le dépôt correspondan
