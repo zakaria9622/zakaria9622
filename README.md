@@ -98,7 +98,6 @@ Lecture guidée et détail complet sur le [portfolio](https://www.zakariamaachou
 
 [Dépôt](https://github.com/zakaria9622/ecommerce-profit-leak-analysis)
 
----
 
 ## Langues
 
